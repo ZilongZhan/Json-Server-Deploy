@@ -1,26 +1,65 @@
 {
-    "personasLocal": [
-        { "id": "1", "name": "Dan Abramov", "number": "12-43-234345" },
-        { "id": "2", "name": "Roger Ramos", "number": "12-43-234345" },
-        { "id": "3", "name": "Jorge Long", "number": "12-43-234345" },
-        { "id": "4", "name": "Nico Williams", "number": "12-43-234345" }
-    ],
-    "personasDevelopment": [
-        { "id": "1", "name": "Messi GOD", "number": "12-43-234345" },
-        { "id": "2", "name": "Cristiano Ronaldo", "number": "12-43-234345" },
-        { "id": "3", "name": "Iker Casillas", "number": "12-43-234345" },
-        { "id": "4", "name": "Dua Lipa", "number": "12-43-234345" }
-    ],
-    "personasPreProduction": [
-        { "id": "1", "name": "Michael Jackson", "number": "12-43-234345" },
-        { "id": "2", "name": "Miguel Bosé", "number": "12-43-234345" },
-        { "id": "3", "name": "Sancho Campo", "number": "12-43-234345" },
-        { "id": "4", "name": "Micky Moouse", "number": "12-43-234345" }
-    ],
-    "personasProduction": [
-        { "id": "1", "name": "Aitor Menta", "number": "12-43-234345" },
-        { "id": "2", "name": "Kevin Keloke", "number": "12-43-234345" },
-        { "id": "3", "name": "Saint George", "number": "12-43-234345" },
-        { "id": "4", "name": "Susana Ahoria", "number": "12-43-234345" }
-    ]
+  "localStudents": [
+    {
+      "id": "2",
+      "name": "Lina Lee",
+      "age": "21"
+    },
+    {
+      "id": "3",
+      "name": "John Doe",
+      "age": "19"
+    },
+    {
+      "id": "4",
+      "name": "Emily Smith",
+      "age": "22"
+    }
+  ],
+  "devStudents": [
+    {
+      "id": "5",
+      "name": "David Kim",
+      "age": "20"
+    },
+    {
+      "id": "6",
+      "name": "Sophia Brown",
+      "age": "20"
+    },
+    {
+      "id": "7",
+      "name": "Michael Johnson",
+      "age": "23"
+    }
+  ],
+  "PreProdStudents": [
+    {
+      "id": "8",
+      "name": "Isabella Martinez",
+      "age": "19"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Garcia",
+      "age": "21"
+    },
+    {
+      "id": "10",
+      "name": "Olivia Rodriguez",
+      "age": "20"
+    }
+  ],
+  "ProdStudents": [
+    {
+      "id": "1712245127440",
+      "name": "Adrà López",
+      "age": "19"
+    },
+    {
+      "id": "1712245147970",
+      "name": "Zilong Zhan",
+      "age": "20"
+    }
+  ]
 }
