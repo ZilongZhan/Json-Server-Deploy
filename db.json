@@ -1,0 +1,26 @@
+{
+    "personasLocal": [
+        { "id": "1", "name": "Dan Abramov", "number": "12-43-234345" },
+        { "id": "2", "name": "Roger Ramos", "number": "12-43-234345" },
+        { "id": "3", "name": "Jorge Long", "number": "12-43-234345" },
+        { "id": "4", "name": "Nico Williams", "number": "12-43-234345" }
+    ],
+    "personasDevelopment": [
+        { "id": "1", "name": "Messi GOD", "number": "12-43-234345" },
+        { "id": "2", "name": "Cristiano Ronaldo", "number": "12-43-234345" },
+        { "id": "3", "name": "Iker Casillas", "number": "12-43-234345" },
+        { "id": "4", "name": "Dua Lipa", "number": "12-43-234345" }
+    ],
+    "personasPreProduction": [
+        { "id": "1", "name": "Michael Jackson", "number": "12-43-234345" },
+        { "id": "2", "name": "Miguel Bosé", "number": "12-43-234345" },
+        { "id": "3", "name": "Sancho Campo", "number": "12-43-234345" },
+        { "id": "4", "name": "Micky Moouse", "number": "12-43-234345" }
+    ],
+    "personasProduction": [
+        { "id": "1", "name": "Aitor Menta", "number": "12-43-234345" },
+        { "id": "2", "name": "Kevin Keloke", "number": "12-43-234345" },
+        { "id": "3", "name": "Saint George", "number": "12-43-234345" },
+        { "id": "4", "name": "Susana Ahoria", "number": "12-43-234345" }
+    ]
+}
