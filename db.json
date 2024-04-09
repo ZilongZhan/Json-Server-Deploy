@@ -33,7 +33,7 @@
       "age": "23"
     }
   ],
-  "PreProdStudents": [
+  "preProdStudents": [
     {
       "id": "8",
       "name": "Isabella Martinez",
@@ -50,7 +50,7 @@
       "age": "20"
     }
   ],
-  "ProdStudents": [
+  "prodStudents": [
     {
       "id": "1712245127440",
       "name": "Adrà López",
