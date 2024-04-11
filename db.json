@@ -1,5 +1,5 @@
 {
-  "localStudents": [
+  "students": [
     {
       "id": "2",
       "name": "Lina Lee",
@@ -14,52 +14,6 @@
       "id": "4",
       "name": "Emily Smith",
       "age": "22"
-    }
-  ],
-  "devStudents": [
-    {
-      "id": "5",
-      "name": "David Kim",
-      "age": "20"
-    },
-    {
-      "id": "6",
-      "name": "Sophia Brown",
-      "age": "20"
-    },
-    {
-      "id": "7",
-      "name": "Michael Johnson",
-      "age": "23"
-    }
-  ],
-  "preProdStudents": [
-    {
-      "id": "8",
-      "name": "Isabella Martinez",
-      "age": "19"
-    },
-    {
-      "id": "9",
-      "name": "Daniel Garcia",
-      "age": "21"
-    },
-    {
-      "id": "10",
-      "name": "Olivia Rodriguez",
-      "age": "20"
-    }
-  ],
-  "prodStudents": [
-    {
-      "id": "1712245127440",
-      "name": "Adrà López",
-      "age": "19"
-    },
-    {
-      "id": "1712245147970",
-      "name": "Zilong Zhan",
-      "age": "20"
     }
   ]
 }
