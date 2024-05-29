@@ -5,7 +5,7 @@
       "title": "Edited issue",
       "description": "This is the first issue",
       "status": "open",
-      "sender": "Admin",
+      "sender": "red",
       "priority": "high",
       "verified": false,
       "created_at": "201"
@@ -15,7 +15,7 @@
       "title": "Edited issue",
       "description": "This is the second issue",
       "status": "open",
-      "sender": "Admin",
+      "sender": "none",
       "priority": "high",
       "verified": false,
       "created_at": "201"
@@ -25,7 +25,7 @@
       "title": "Edited issue",
       "description": "This is the third issue",
       "status": "open",
-      "sender": "Admin",
+      "sender": "green",
       "priority": "high",
       "verified": false,
       "created_at": "201"
