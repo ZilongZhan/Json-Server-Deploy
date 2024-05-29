@@ -5,6 +5,27 @@
       "title": "Edited issue",
       "description": "This is the first issue",
       "status": "open",
+      "sender": "Admin",
+      "priority": "high",
+      "verified": false,
+      "created_at": "201"
+    },
+    {
+      "id": "2",
+      "title": "Edited issue",
+      "description": "This is the second issue",
+      "status": "open",
+      "sender": "Admin",
+      "priority": "high",
+      "verified": false,
+      "created_at": "201"
+    },
+    {
+      "id": "3",
+      "title": "Edited issue",
+      "description": "This is the third issue",
+      "status": "open",
+      "sender": "Admin",
       "priority": "high",
       "verified": false,
       "created_at": "201"
@@ -14,7 +35,8 @@
     {
       "id": "1",
       "name": "John Doe",
-      "email": "JohnDoe@gmail.com"
+      "email": "JohnDoe@gmail.com",
+      "password": "johndoe"
     }
   ]
 }
