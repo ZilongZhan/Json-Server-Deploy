@@ -8,7 +8,7 @@
       "sender": "red",
       "priority": "high",
       "verified": false,
-      "created_at": "201"
+      "created_at": "15:12"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "sender": "none",
       "priority": "high",
       "verified": false,
-      "created_at": "201"
+      "created_at": "15:20"
     },
     {
       "id": "3",
@@ -28,7 +28,177 @@
       "sender": "green",
       "priority": "high",
       "verified": false,
-      "created_at": "201"
+      "created_at": "15:25"
+    },
+    {
+      "id": "4",
+      "title": "Porta no tanca bé",
+      "description": "This is the fourth issue",
+      "status": "open",
+      "sender": "blue",
+      "priority": "medium",
+      "verified": false,
+      "created_at": "15:30"
+    },
+    {
+      "id": "5",
+      "title": "Finestra trencada",
+      "description": "This is the fifth issue",
+      "status": "open",
+      "sender": "yellow",
+      "priority": "high",
+      "verified": false,
+      "created_at": "15:35"
+    },
+    {
+      "id": "6",
+      "title": "Calefacció no funciona",
+      "description": "This is the sixth issue",
+      "status": "open",
+      "sender": "purple",
+      "priority": "high",
+      "verified": false,
+      "created_at": "15:40"
+    },
+    {
+      "id": "7",
+      "title": "Televisor espatllat",
+      "description": "This is the seventh issue",
+      "status": "open",
+      "sender": "orange",
+      "priority": "low",
+      "verified": false,
+      "created_at": "15:45"
+    },
+    {
+      "id": "8",
+      "title": "Sofà trencat",
+      "description": "This is the eighth issue",
+      "status": "open",
+      "sender": "red",
+      "priority": "medium",
+      "verified": false,
+      "created_at": "15:50"
+    },
+    {
+      "id": "9",
+      "title": "Ordinador no engega",
+      "description": "This is the ninth issue",
+      "status": "open",
+      "sender": "green",
+      "priority": "high",
+      "verified": false,
+      "created_at": "15:55"
+    },
+    {
+      "id": "10",
+      "title": "Internet no funciona",
+      "description": "This is the tenth issue",
+      "status": "open",
+      "sender": "none",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:00"
+    },
+    {
+      "id": "11",
+      "title": "Microones espatllat",
+      "description": "This is the eleventh issue",
+      "status": "open",
+      "sender": "yellow",
+      "priority": "medium",
+      "verified": false,
+      "created_at": "16:05"
+    },
+    {
+      "id": "12",
+      "title": "Nevera no refreda",
+      "description": "This is the twelfth issue",
+      "status": "open",
+      "sender": "blue",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:10"
+    },
+    {
+      "id": "13",
+      "title": "Ventilador no funciona",
+      "description": "This is the thirteenth issue",
+      "status": "open",
+      "sender": "purple",
+      "priority": "low",
+      "verified": false,
+      "created_at": "16:15"
+    },
+    {
+      "id": "14",
+      "title": "Rentadora no funciona",
+      "description": "This is the fourteenth issue",
+      "status": "open",
+      "sender": "orange",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:20"
+    },
+    {
+      "id": "15",
+      "title": "Aire condicionat no encèn",
+      "description": "This is the fifteenth issue",
+      "status": "open",
+      "sender": "red",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:25"
+    },
+    {
+      "id": "16",
+      "title": "Ascensor espatllat",
+      "description": "This is the sixteenth issue",
+      "status": "open",
+      "sender": "green",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:30"
+    },
+    {
+      "id": "17",
+      "title": "Persiana no baixa",
+      "description": "This is the seventeenth issue",
+      "status": "open",
+      "sender": "blue",
+      "priority": "medium",
+      "verified": false,
+      "created_at": "16:35"
+    },
+    {
+      "id": "18",
+      "title": "Llum intermitent",
+      "description": "This is the eighteenth issue",
+      "status": "open",
+      "sender": "yellow",
+      "priority": "low",
+      "verified": false,
+      "created_at": "16:40"
+    },
+    {
+      "id": "19",
+      "title": "Radiador gotega",
+      "description": "This is the nineteenth issue",
+      "status": "open",
+      "sender": "purple",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:45"
+    },
+    {
+      "id": "20",
+      "title": "Congelador espatllat",
+      "description": "This is the twentieth issue",
+      "status": "open",
+      "sender": "orange",
+      "priority": "high",
+      "verified": false,
+      "created_at": "16:50"
     }
   ],
   "users": [
