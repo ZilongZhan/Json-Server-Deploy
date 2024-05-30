@@ -2,7 +2,7 @@
   "issues": [
     {
       "id": "1",
-      "title": "Edited issue",
+      "title": "Aixeta perd aigua",
       "description": "This is the first issue",
       "status": "open",
       "sender": "red",
@@ -12,7 +12,7 @@
     },
     {
       "id": "2",
-      "title": "Edited issue",
+      "title": "Lavabo no funciona",
       "description": "This is the second issue",
       "status": "open",
       "sender": "none",
@@ -22,7 +22,7 @@
     },
     {
       "id": "3",
-      "title": "Edited issue",
+      "title": "Llum no encèn",
       "description": "This is the third issue",
       "status": "open",
       "sender": "green",
